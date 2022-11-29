@@ -1,0 +1,16 @@
+{
+"datos":
+[
+{
+	"nombre": "Ana",
+	"apellidos": "Perez",
+	"fechaNac": "12/02/1976",
+	"genero": 
+		[
+		"femenino": "femenino"
+		],
+	"correo": "annePe@gmail.com"
+}
+]
+
+}
